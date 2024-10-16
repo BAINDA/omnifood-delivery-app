@@ -42,8 +42,6 @@ Creating the Omnifood website has been an exciting journey! 🎊 It not only all
 
 ---
 
-Feel free to explore the project and see how it all comes together. Your feedback is always welcome! 💬
-
 ![omnifood](https://github.com/user-attachments/assets/01598d18-7299-4482-931b-995c070b43f5)
 
 
