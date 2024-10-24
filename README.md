@@ -1,5 +1,10 @@
 # Omnifood Project 🌟
 
+## Preview
+Check out the website here: [Live Demo](https://omnifood-bainda.netlify.app/) 🌐
+
+![Omnifood](https://github.com/user-attachments/assets/01598d18-7299-4482-931b-995c070b43f5)
+
 ## About Omnifood
 
 **Omnifood** is a fictional brand brought to life by **Jonas Schmedtmann** in his course, *Build Responsive Real-World Websites with HTML and CSS*. This project has been a fantastic opportunity for me to build a landing page that not only highlights this imaginary brand but also helped me level up my frontend web development skills. 🚀
@@ -20,10 +25,6 @@ The Omnifood website features a full redesign of the original site, which is an 
 - **Animations**: Fun CSS animations triggered by the IntersectionObserver API, making the site feel dynamic and lively. 🎉
 - **Smooth Scrolling**: A fluid experience as users navigate between sections of the page. 🌀
 
-## Preview
-
-Check out the website here: [Live Demo](https://omnifood-bainda.netlify.app/) 🌐
-
 ## ✨ Features
 
 - **Responsive Design**: The website adapts beautifully to different devices, ensuring it looks amazing on desktops, tablets, and phones alike. 📲
@@ -39,9 +40,3 @@ Check out the website here: [Live Demo](https://omnifood-bainda.netlify.app/) �
 ## Conclusion
 
 Creating the Omnifood website has been an exciting journey! 🎊 It not only allowed me to put into practice what I learned in the course but also provided me with valuable hands-on experience in web development. I’m thrilled to share this project and can’t wait to take on more challenges in the frontend world! 💪
-
----
-
-![omnifood](https://github.com/user-attachments/assets/01598d18-7299-4482-931b-995c070b43f5)
-
-
