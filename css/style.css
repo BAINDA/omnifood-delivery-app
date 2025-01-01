@@ -665,3 +665,19 @@
 .footer-link:active {
   color: #555;
 }
+
+/* Custom Scrollbar Styles */
+::-webkit-scrollbar {
+  width: 10px;
+  aspect-ratio: 1;
+  border-radius: 12px;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #e67e22;
+  border-radius: 12px;
+}
+
+::-webkit-scrollbar-track {
+  border-radius: 12px;
+}
